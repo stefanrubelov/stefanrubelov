@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stefanrubelov
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, PHP, Laravel.
+- 👋 Hi, I’m @stefanrubelov,
+- 👀 I’m interested in Web Development,
+- 🌱 I’m currently learning Javascript, PHP, Laravel, among other things,
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me: https://www.linkedin.com/in/stefanrubelov/
 
