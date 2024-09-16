@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefanrubelov,
 - 👀 I’m interested in Web Development,
-- 🌱 I’m working with PHP, Laravel, Livewire, Alpine, Javascript, Typescript, Angular, MySQL etc.
+- 🌱 I’m working with Java, PHP, Laravel, Livewire, Alpine, Javascript, Typescript, Angular, MySQL etc.
 - 📫 How to reach me: https://www.linkedin.com/in/stefanrubelov/
 
 <!---
