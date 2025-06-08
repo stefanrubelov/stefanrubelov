@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @stefanrubelov,
-- 👀 I’m into Web Development,
-- 🌱 I’m working with PHP, Laravel, Livewire, Alpine, Javascript, Typescript, Angular, Java, JavaFX, MySQL, Docker, etc.
-- 📫 How to reach me: https://www.linkedin.com/in/stefanrubelov/
+# 👋 Hi, I’m Stefan Rubelov
 
-<!---
-stefanrubelov/stefanrubelov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 Web Developer passionate about building efficient, scalable, and maintainable applications
+- 🔭 Currently working with PHP, Laravel, Livewire, Alpine.js, JavaScript, TypeScript, Angular, Java, JavaFX, MySQL, and Docker
+- 🚀 Exploring best practices in clean architecture, performance optimization, and component-based UIs
+- 📚 Lifelong learner — constantly debugging and sharpening skills
+- 🧩 Open to collaboration on open-source, freelance, or interesting side projects
+- 📫 Let's connect: [LinkedIn →](https://www.linkedin.com/in/stefanrubelov/)
